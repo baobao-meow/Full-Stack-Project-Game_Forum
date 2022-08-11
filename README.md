@@ -1,7 +1,6 @@
 # Full Stack Project: Game Forum
 
 Future updates:
-- Deploy on cloud(AWS, azure)
 - CI/CD 
 - Integrate with stripe
 
